@@ -17,3 +17,9 @@ If an idea pops into my head, I build it. I love cool mini projects on my own th
   
 + Even though my main JD is QA, I am also actively pursuing knowledge in Software Development and Business Analytics, and a bit of Data Science. 🤓
 
+## How to contact me
+
++ Linkedin
+
++ Email
+

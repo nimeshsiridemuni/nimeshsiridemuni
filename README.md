@@ -27,3 +27,5 @@ I am also learning OOP with JavaScript and Python
 + Email
 
 + Phone
+
+Looking forward to collaborating with you in exciting and challenging work!

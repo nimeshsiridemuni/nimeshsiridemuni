@@ -16,7 +16,7 @@ If an idea pops into my head, I build it. I love cool mini projects on my own th
 
 ### Fun Facts about me 
 I got into tech and QA mostly through self-learning and practice 😎. I am currently mastering JavaScript on my own and working on my first repo for [Playwright Automation](https://github.com/nimeshsiridemuni/playwright-automation-framework-using-js)
-I am also learning OOP with JavaScript and Python
+I am also learning OOP with and Python
   
 + Even though my main JD is QA, I am also actively pursuing knowledge in Backend Development and Business Analytics, and a bit of Data Science. 🤓
 
